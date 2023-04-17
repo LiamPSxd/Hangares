@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>mx.uv</groupId>
-	<artifactId>hangares</artifactId>
+	<artifactId>hangar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hangares</name>
+	<name>hangar</name>
 	<description>Microservicio -> Hangares</description>
 	<properties>
 		<java.version>1.8</java.version>
